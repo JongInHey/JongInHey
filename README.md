@@ -29,6 +29,8 @@
   <img src="https://github.com/user-attachments/assets/bee8cb96-0bbf-442d-85b2-95123a182e52" alt="acp_design_badge" width="70px" />
   <img src="https://github.com/user-attachments/assets/9d792495-91be-49e6-954b-a8a122ca1efa" alt="acp_photoshop" width="70px" />
   <img src="https://github.com/user-attachments/assets/4e21edfb-46c6-4e2b-a44f-52c1ed345025" alt="acp_illustrator" width="70px" />
+  
+  <a href="https://www.credly.com/users/jongin-lee.249b9a59" target="_blank">My Credly Profile Link</a>
 </div>
 
 
