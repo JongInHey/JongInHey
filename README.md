@@ -18,6 +18,7 @@
   ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
   ![adobexd](https://img.shields.io/badge/adobe%20xd-FF61F6.svg?&style=for-the-badge&logo=adobexd&logoColor=white)
+  ![styledcomponents](https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=white)
   ![chakraui](https://img.shields.io/badge/chakra%20ui-319795.svg?&style=for-the-badge&logo=chakraui&logoColor=white)
   
   ### 📃Adobe Certified Professional
