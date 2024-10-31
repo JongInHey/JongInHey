@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=LEE%20JONG%20IN&fontSize=90)
   
   ####  :wave: Welcome My GitHub ProFile !
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJongInHey&count_bg=%2388F1C7&title_bg=%232ED13C&icon=&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJongInHey&count_bg=%2388F1C7&title_bg=%232ED13C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongInHey&show_icons=true&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
   
